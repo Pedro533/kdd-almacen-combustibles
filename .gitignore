@@ -1,0 +1,7 @@
+# Se regeneran al ejecutar el script
+datos_combustibles/*.sqlite
+graficos/
+resultados/
+.Rhistory
+.RData
+.Rproj.user/
